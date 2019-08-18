@@ -2,7 +2,7 @@
 
 The .vimrc with the most necessary plugins.
 
-###Instalation
+### Instalation
 
 Download and put the .vimrc in your home directory.
 
